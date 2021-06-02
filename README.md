@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ![](https://komarev.com/ghpvc/?username=illaykaye)
 <br>
 [![Illay's GitHub stats](https://github-readme-stats.vercel.app/api?username=illaykaye&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
